@@ -53,7 +53,6 @@ def roman_to_integer(roman):
             index += 2
 
     return total
-1,2,3
 
 
 # roman_integer = []
